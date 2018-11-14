@@ -15,7 +15,7 @@
 - Unit-тесты
 
 ## В проекте используются:
-- [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
+- [RxJava2](https://github.com/ReactiveX/RxJava) и [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - [Retrofit](http://square.github.io/retrofit)
 - [Dagger 2](http://google.github.io/dagger)
 - [Gson](https://github.com/google/gson)
