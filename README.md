@@ -23,3 +23,5 @@
 - [AssertJ](https://github.com/joel-costigliola/assertj-core)
 - [Mockito](https://github.com/mockito/mockito)
 - [CircleIndicator](https://github.com/ongakuer/CircleIndicator)
+
+[Старая версия](https://github.com/hotmule/VkFeedOld)
