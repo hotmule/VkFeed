@@ -3,7 +3,18 @@
 
 <img src="screenshots/Screenshot_20181115-015719.jpg" width="293px"> <img src="screenshots/Screenshot_20181115-014256.jpg" width="293px"> <img src="screenshots/Screenshot_20181115-014147.jpg" width="293px">
 
-## В проекте используются
+## В проекте реализованы:
+- MVP-архитектура
+- Splash экран
+- Экран входа (без использования VK SDK)
+- Экран с новостной лентой
+- Экран с деталями поста
+- Возможность поставить/убрать лайк записи
+- Обработка случаев, когда нет интернета
+- Поддержка Android 4.1+
+- Unit-тесты
+
+## В проекте используются:
 - [RxJava2](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
 - [Retrofit](http://square.github.io/retrofit)
 - [Dagger 2](http://google.github.io/dagger)
