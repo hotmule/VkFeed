@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VkFeed</string>
+
+    <string name="network_connection_error">No network connection</string>
+    <string name="unexpected_error">Unexpected error</string>
+
+    <string name="post_without_text">Post without text</string>
+    <string name="log_out">Log Out</string>
+
+    <string name="post">Post</string>
+    <string name="likes">Likes:</string>
+</resources>
